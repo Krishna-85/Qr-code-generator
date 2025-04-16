@@ -4,7 +4,8 @@ Generate QR codes instantly from any text or URL!
 
 🔗 **Live Demo:** [qr-generator-krishna.netlify.app](https://qr-generator-krishna.netlify.app)
 
-![QR Code Generator Screenshot](./895bb665-d2d3-4a07-8d4c-489d540b0380.png)
+![image](https://github.com/user-attachments/assets/cfaa6cb0-28e6-4462-9042-9fc2a36c12d2)
+
 
 ---
 
